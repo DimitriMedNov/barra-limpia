@@ -1,0 +1,8 @@
+{
+  "uuid": "barra-limpia@dimitrimednov.github.io",
+  "name": "Barra limpia",
+  "description": "Esconde de la barra de arriba los iconos de Bluetooth, volumen y No molestar. Deja Wi-Fi, modo de energía, batería y los avisos de micrófono, cámara y pantalla compartida.",
+  "shell-version": ["48", "49", "50", "51"],
+  "url": "https://github.com/DimitriMedNov/barra-limpia",
+  "version": 1
+}
